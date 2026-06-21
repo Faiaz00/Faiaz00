@@ -11,7 +11,7 @@
 -->
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz_Fahmid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz Fahmid" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz%20Fahmid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz Fahmid" />
 
 <!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
@@ -102,6 +102,16 @@ A **support agent grounded in a business's own knowledge base** that answers que
 [**View Repository →**](https://github.com/[your-handle]/support-agent)
 
 </td>
+<td width="50%" valign="top">
+
+ ### 🕹️ C Guessing Game
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+A **support agent grounded in a business's own knowledge base** that answers questions consistently across channels and escalates cleanly to a human when it can't help.
+
+[**View Repository →**](https://github.com/[your-handle]/support-agent)
+
+</td>
 </tr>
 </table>
 
@@ -110,7 +120,7 @@ A **support agent grounded in a business's own knowledge base** that answers que
 <!-- ===================== EDUCATION ===================== -->
 ## 🎓 Education
 
-| **Academia** | **O & A-Levels** | **Maths-Physics-Chemistry** |
+| **Institute** | **Degree** |
 | --- | --- | --- |
 | **North South University** | Bachelor of Computer Science & Engineering |
 
