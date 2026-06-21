@@ -11,7 +11,7 @@
 -->
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz Fahmid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz Fahmid" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz_Fahmid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz Fahmid" />
 
 <!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
