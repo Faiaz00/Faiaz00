@@ -102,14 +102,16 @@ A **support agent grounded in a business's own knowledge base** that answers que
 [**View Repository →**](https://github.com/[your-handle]/support-agent)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
  ### 🕹️ C Guessing Game
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-A **support agent grounded in a business's own knowledge base** that answers questions consistently across channels and escalates cleanly to a human when it can't help.
+A **console-based number/box guessing game** written in C. Players hide boxes and try to find their opponent's hidden boxes across a series of rounds. Supports Player vs Player and Player vs Computer, three difficulty levels, and a persistent scoreboard saved to a file.
 
-[**View Repository →**](https://github.com/[your-handle]/support-agent)
+[**View Repository →**](https://github.com/Faiaz00/Guessing-Game)
 
 </td>
 </tr>
