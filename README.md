@@ -11,7 +11,7 @@
 -->
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz Fahmid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz Fahmid" />
 
 <!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
@@ -19,9 +19,9 @@
 </p>
 
 <!-- ===================== ABOUT ===================== -->
-## 👋 About Me
+## 👋🏻 About Me
 
-I'm a **Computer Science student** and builder focused on shipping complete software — from **multi-tenant SaaS platforms** to **AI automation systems** that run on the channels people actually use.
+I'm a **CSE student** and builder focused on shipping complete software — from **multi-tenant SaaS platforms** to **AI automation systems** that run on the channels people actually use.
 
 My work focuses on:
 
@@ -32,8 +32,8 @@ My work focuses on:
 I like the full arc of a build — data model, architecture, integration plumbing, and the polish at the end.
 
 <p align="left">
-  📫 Reach me — <a href="mailto:[you@domain.com]">Email</a> ·
-  <a href="https://linkedin.com/in/[your-linkedin]">LinkedIn</a>
+  📫 Reach me — <a href="mailto:faiazfahmid6@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/faiaz-fahmid-b43812387/">LinkedIn</a>
 </p>
 
 ---
@@ -110,9 +110,9 @@ A **support agent grounded in a business's own knowledge base** that answers que
 <!-- ===================== EDUCATION ===================== -->
 ## 🎓 Education
 
-| **Institution** | **Degree** | **Field** |
+| **Academia** | **O & A-Levels** | **Maths-Physics-Chemistry** |
 | --- | --- | --- |
-| **[Your University]** | Bachelor of Science | Computer Science |
+| **North South University** | Bachelor of Computer Science & Engineering |
 
 ---
 
@@ -120,21 +120,21 @@ A **support agent grounded in a business's own knowledge base** that answers que
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[your-handle]&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=[your-handle]&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faiaz00&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faiaz00&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[your-handle]&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[your-handle]&theme=tokyonight&utcOffset=6" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faiaz00&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faiaz00&theme=tokyonight&utcOffset=6" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=[your-handle]&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Faiaz00&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[your-handle]&theme=tokyo-night&area=true&hide_border=true" alt="Activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faiaz00&theme=tokyo-night&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
 <!-- ===================== FOOTER WAVE ===================== -->
