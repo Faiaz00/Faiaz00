@@ -1,15 +1,3 @@
-<!--
-================================================================
- BEFORE YOU DEPLOY — find & replace [your-handle] with your GitHub
- username EVERYWHERE below. The stats/streak/activity cards will NOT
- render until you do (they pull live data from your real account).
- Also swap [you@domain.com], [your-linkedin], [Your University].
- To change the big header name, edit "&text=Faiaz" in the first image.
- Put this file in a repo named EXACTLY after your username
- (e.g. github.com/faiaz/faiaz) so it shows on your profile.
-================================================================
--->
-
 <!-- ===================== HEADER BANNER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Faiaz%20Fahmid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descSize=20" alt="Faiaz Fahmid" />
 
@@ -55,25 +43,33 @@ I like the full arc of a build — data model, architecture, integration plumbin
 <td width="50%" valign="top">
 
 ### 🌐 SME Automation Portal
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Multi--Tenant%20SaaS-blue?style=flat)
+
+<p>
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 A **multi-tenant SaaS platform** where small businesses manage AI chatbot services across WhatsApp, Facebook & Instagram. Tenant isolation via row-level security, BDT pricing tiers, and local payments (bKash · Nagad · Rocket).
 
-[**View Repository →**](https://github.com/[your-handle]/sme-automation-portal)
+[**View Repository →**](https://github.com/Faiaz00/sme-automation-portal)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 WhatsApp AI Ordering System
-![Make](https://img.shields.io/badge/Make.com-1C1C1C?style=flat&logo=make&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat&logo=openai&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Conversational%20Agent-success?style=flat)
+
+<p>
+  <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
+  <img src="https://img.shields.io/badge/-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+</p>
 
 An **end-to-end ordering agent** that takes orders in natural language over WhatsApp, confirms them, and writes structured records to a live operations sheet — no app, no friction.
 
-[**View Repository →**](https://github.com/[your-handle]/whatsapp-ordering-agent)
+[**View Repository →**](https://github.com/Faiaz00/whatsapp-ordering-agent)
 
 </td>
 </tr>
@@ -81,33 +77,41 @@ An **end-to-end ordering agent** that takes orders in natural language over What
 <td width="50%" valign="top">
 
 ### ☕ CineVault
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=flat)
-![Focus](https://img.shields.io/badge/Focus-OOP%20%2B%20Architecture-blue?style=flat)
+
+<p>
+  <img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX" />
+</p>
 
 An **IMDb-style movie management desktop app** built in Java 21 with a clean four-layer architecture (model · persistence · service · UI), role-based access control, and serialization-based storage.
 
-[**View Repository →**](https://github.com/[your-handle]/cinevault)
+[**View Repository →**](https://github.com/Faiaz00/cinevault)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 Multi-Channel Support Agent
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Postgres](https://img.shields.io/badge/pgvector-31648C?style=flat&logo=postgresql&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-RAG%20Support-success?style=flat)
+
+<p>
+  <img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
 A **support agent grounded in a business's own knowledge base** that answers questions consistently across channels and escalates cleanly to a human when it can't help.
 
-[**View Repository →**](https://github.com/[your-handle]/support-agent)
+[**View Repository →**](https://github.com/Faiaz00/support-agent)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
- ### 🕹️ C Guessing Game
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🕹️ C Guessing Game
+
+<p>
+  <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
 
 A **console-based number/box guessing game** written in C. Players hide boxes and try to find their opponent's hidden boxes across a series of rounds. Supports Player vs Player and Player vs Computer, three difficulty levels, and a persistent scoreboard saved to a file.
 
@@ -123,8 +127,8 @@ A **console-based number/box guessing game** written in C. Players hide boxes an
 ## 🎓 Education
 
 | **Institute** | **Degree** |
-| --- | --- | --- |
-| **North South University** | Bachelor of Computer Science & Engineering |
+| --- | --- |
+| **North South University** | Bachelor of Science in Computer Science & Engineering |
 
 ---
 
