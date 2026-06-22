@@ -30,7 +30,7 @@ I like the full arc of a build — data model, architecture, integration plumbin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,c,c++,python,java,javascript,react,tailwind,nodejs,supabase,postgres,figma,git,github,vercel,html5,css3,vscode&perline=6" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,c,cpp,python,java,javascript,react,tailwind,nodejs,supabase,postgres,figma,git,github,vercel,html,css,vscode&perline=6" alt="Tech stack" />
 </p>
 
 ---
